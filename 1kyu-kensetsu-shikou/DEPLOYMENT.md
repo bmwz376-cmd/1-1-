@@ -36,17 +36,30 @@ git push -u origin main
 ```
 
 #### ステップ3: GitHub Pagesを有効化
-1. GitHubリポジトリページへアクセス
-2. 「Settings」→「Pages」をクリック
-3. Source: `main` ブランチを選択
-4. ディレクトリ: `/ (root)` を選択
+
+**方法A: 直接設定（最も簡単）**
+1. GitHubリポジトリページへアクセス: https://github.com/YOUR_USERNAME/YOUR_REPO
+2. 「Settings」タブをクリック
+3. 左メニューから「Pages」をクリック
+4. **Source** セクション:
+   - `Deploy from a branch` を選択
+   - **Branch**: `main` を選択
+   - **Folder**: `/1kyu-kensetsu-shikou` を選択（現在のリポジトリ構造の場合）
+     - または `/ (root)` を選択（ファイルがルートにある場合）
 5. 「Save」をクリック
+
+**注意**: 現在のリポジトリ（https://github.com/bmwz376-cmd/1-1-.git）では、
+`/1kyu-kensetsu-shikou` フォルダを指定する必要があります。
 
 #### ステップ4: 公開URLを確認
 数分後、以下のようなURLで公開されます：
 ```
-https://YOUR_USERNAME.github.io/1kyu-kensetsu-shikou/
+https://bmwz376-cmd.github.io/1-1-/
+または
+https://bmwz376-cmd.github.io/1-1-/1kyu-kensetsu-shikou/
 ```
+
+**現在のリポジトリURL**: https://github.com/bmwz376-cmd/1-1-
 
 ---
 

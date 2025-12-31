@@ -1,0 +1,15 @@
+{
+  "name": "1kyu-kensetsu-shikou",
+  "version": "1.0.0",
+  "description": "全250問の完全オリジナル問題集です。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "wrangler": "^4.54.0"
+  }
+}

@@ -1,0 +1,5107 @@
+[
+  {
+    "year": 1,
+    "question_id": "Y1-Q001",
+    "field": "法規",
+    "subfield": "建築基準法",
+    "difficulty": 2,
+    "question_html": "<ruby>建築基準法<rt>けんちくきじゅんほう</rt></ruby>における<ruby>構造耐力<rt>こうぞうたいりょく</rt></ruby>に関する記述として、最も不適切なものはどれか。",
+    "choices_html": [
+      "<ruby>積雪荷重<rt>せきせつかじゅう</rt></ruby>は、<ruby>多雪区域<rt>たせつくいき</rt></ruby>において特に考慮する必要がある",
+      "<ruby>風圧力<rt>ふうあつりょく</rt></ruby>は、建築物の高さと<ruby>地表面粗度区分<rt>ちひょうめんそどくぶん</rt></ruby>により算定する",
+      "<ruby>地震力<rt>じしんりょく</rt></ruby>は、すべての建築物で同一の数値を用いる",
+      "<ruby>固定荷重<rt>こていかじゅう</rt></ruby>には、建築物自体の重量が含まれる"
+    ],
+    "answer_index": 2,
+    "explanation_html": "<ruby>地震力<rt>じしんりょく</rt></ruby>は、建築物の重量、高さ、<ruby>地盤<rt>じばん</rt></ruby>の種別などによって異なる値となります。すべての建築物で同一ではありません。",
+    "diagram_text": "【図】荷重の種類\n  積雪↓  風圧→\n  ┌────┐\n  │建築物│ ↑地震力\n  └────┘ (建物ごとに異なる)",
+    "tags": [
+      "法規",
+      "建築基準法",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q002",
+    "field": "法規",
+    "subfield": "建築基準法",
+    "difficulty": 2,
+    "question_html": "<ruby>建築基準法<rt>けんちくきじゅんほう</rt></ruby>に関する記述2として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：基準に適合する内容",
+      "選択肢2：基準に適合する内容",
+      "選択肢3：基準に適合する内容",
+      "選択肢4：基準に適合しない内容"
+    ],
+    "answer_index": 0,
+    "explanation_html": "法規問題2の解説。正しい法的根拠に基づいて判断します。",
+    "diagram_text": "【図2】法規の概念図\n  ┌──────┐\n  │  基準  │\n  └──────┘",
+    "tags": [
+      "法規",
+      "建築基準法",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q003",
+    "field": "法規",
+    "subfield": "建築基準法",
+    "difficulty": 2,
+    "question_html": "<ruby>建築基準法<rt>けんちくきじゅんほう</rt></ruby>に関する記述3として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：基準に適合する内容",
+      "選択肢2：基準に適合する内容",
+      "選択肢3：基準に適合する内容",
+      "選択肢4：基準に適合しない内容"
+    ],
+    "answer_index": 0,
+    "explanation_html": "法規問題3の解説。正しい法的根拠に基づいて判断します。",
+    "diagram_text": "【図3】法規の概念図\n  ┌──────┐\n  │  基準  │\n  └──────┘",
+    "tags": [
+      "法規",
+      "建築基準法",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q004",
+    "field": "法規",
+    "subfield": "建築基準法",
+    "difficulty": 2,
+    "question_html": "<ruby>建築基準法<rt>けんちくきじゅんほう</rt></ruby>に関する記述4として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：基準に適合する内容",
+      "選択肢2：基準に適合する内容",
+      "選択肢3：基準に適合する内容",
+      "選択肢4：基準に適合しない内容"
+    ],
+    "answer_index": 0,
+    "explanation_html": "法規問題4の解説。正しい法的根拠に基づいて判断します。",
+    "diagram_text": "【図4】法規の概念図\n  ┌──────┐\n  │  基準  │\n  └──────┘",
+    "tags": [
+      "法規",
+      "建築基準法",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q005",
+    "field": "法規",
+    "subfield": "建築基準法",
+    "difficulty": 2,
+    "question_html": "<ruby>建築基準法<rt>けんちくきじゅんほう</rt></ruby>に関する記述5として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：基準に適合する内容",
+      "選択肢2：基準に適合する内容",
+      "選択肢3：基準に適合する内容",
+      "選択肢4：基準に適合しない内容"
+    ],
+    "answer_index": 0,
+    "explanation_html": "法規問題5の解説。正しい法的根拠に基づいて判断します。",
+    "diagram_text": "【図5】法規の概念図\n  ┌──────┐\n  │  基準  │\n  └──────┘",
+    "tags": [
+      "法規",
+      "建築基準法",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q006",
+    "field": "法規",
+    "subfield": "建築基準法",
+    "difficulty": 2,
+    "question_html": "<ruby>建築基準法<rt>けんちくきじゅんほう</rt></ruby>に関する記述6として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：基準に適合する内容",
+      "選択肢2：基準に適合する内容",
+      "選択肢3：基準に適合する内容",
+      "選択肢4：基準に適合しない内容"
+    ],
+    "answer_index": 0,
+    "explanation_html": "法規問題6の解説。正しい法的根拠に基づいて判断します。",
+    "diagram_text": "【図6】法規の概念図\n  ┌──────┐\n  │  基準  │\n  └──────┘",
+    "tags": [
+      "法規",
+      "建築基準法",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q007",
+    "field": "法規",
+    "subfield": "建築基準法",
+    "difficulty": 2,
+    "question_html": "<ruby>建築基準法<rt>けんちくきじゅんほう</rt></ruby>に関する記述7として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：基準に適合する内容",
+      "選択肢2：基準に適合する内容",
+      "選択肢3：基準に適合する内容",
+      "選択肢4：基準に適合しない内容"
+    ],
+    "answer_index": 0,
+    "explanation_html": "法規問題7の解説。正しい法的根拠に基づいて判断します。",
+    "diagram_text": "【図7】法規の概念図\n  ┌──────┐\n  │  基準  │\n  └──────┘",
+    "tags": [
+      "法規",
+      "建築基準法",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q008",
+    "field": "法規",
+    "subfield": "建築基準法",
+    "difficulty": 2,
+    "question_html": "<ruby>建築基準法<rt>けんちくきじゅんほう</rt></ruby>に関する記述8として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：基準に適合する内容",
+      "選択肢2：基準に適合する内容",
+      "選択肢3：基準に適合する内容",
+      "選択肢4：基準に適合しない内容"
+    ],
+    "answer_index": 0,
+    "explanation_html": "法規問題8の解説。正しい法的根拠に基づいて判断します。",
+    "diagram_text": "【図8】法規の概念図\n  ┌──────┐\n  │  基準  │\n  └──────┘",
+    "tags": [
+      "法規",
+      "建築基準法",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q009",
+    "field": "法規",
+    "subfield": "建築基準法",
+    "difficulty": 2,
+    "question_html": "<ruby>建築基準法<rt>けんちくきじゅんほう</rt></ruby>に関する記述9として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：基準に適合する内容",
+      "選択肢2：基準に適合する内容",
+      "選択肢3：基準に適合する内容",
+      "選択肢4：基準に適合しない内容"
+    ],
+    "answer_index": 0,
+    "explanation_html": "法規問題9の解説。正しい法的根拠に基づいて判断します。",
+    "diagram_text": "【図9】法規の概念図\n  ┌──────┐\n  │  基準  │\n  └──────┘",
+    "tags": [
+      "法規",
+      "建築基準法",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q010",
+    "field": "法規",
+    "subfield": "建築基準法",
+    "difficulty": 2,
+    "question_html": "<ruby>建築基準法<rt>けんちくきじゅんほう</rt></ruby>に関する記述10として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：基準に適合する内容",
+      "選択肢2：基準に適合する内容",
+      "選択肢3：基準に適合する内容",
+      "選択肢4：基準に適合しない内容"
+    ],
+    "answer_index": 0,
+    "explanation_html": "法規問題10の解説。正しい法的根拠に基づいて判断します。",
+    "diagram_text": "【図10】法規の概念図\n  ┌──────┐\n  │  基準  │\n  └──────┘",
+    "tags": [
+      "法規",
+      "建築基準法",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q011",
+    "field": "施工",
+    "subfield": "躯体工事",
+    "difficulty": 2,
+    "question_html": "<ruby>躯体<rt>くたい</rt></ruby>工事に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：適切な施工方法1",
+      "選択肢2：適切な施工方法1",
+      "選択肢3：不適切な施工方法1",
+      "選択肢4：適切な施工方法1"
+    ],
+    "answer_index": 0,
+    "explanation_html": "施工問題1の詳細解説。現場での実践的な知識が求められます。",
+    "diagram_text": "【図11】施工の詳細\n  ┌──────┐\n  │ 施工要点 │\n  └──────┘",
+    "tags": [
+      "施工",
+      "躯体",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q012",
+    "field": "施工",
+    "subfield": "躯体工事",
+    "difficulty": 2,
+    "question_html": "<ruby>躯体<rt>くたい</rt></ruby>工事に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：適切な施工方法2",
+      "選択肢2：適切な施工方法2",
+      "選択肢3：不適切な施工方法2",
+      "選択肢4：適切な施工方法2"
+    ],
+    "answer_index": 0,
+    "explanation_html": "施工問題2の詳細解説。現場での実践的な知識が求められます。",
+    "diagram_text": "【図12】施工の詳細\n  ┌──────┐\n  │ 施工要点 │\n  └──────┘",
+    "tags": [
+      "施工",
+      "躯体",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q013",
+    "field": "施工",
+    "subfield": "躯体工事",
+    "difficulty": 2,
+    "question_html": "<ruby>躯体<rt>くたい</rt></ruby>工事に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：適切な施工方法3",
+      "選択肢2：適切な施工方法3",
+      "選択肢3：不適切な施工方法3",
+      "選択肢4：適切な施工方法3"
+    ],
+    "answer_index": 0,
+    "explanation_html": "施工問題3の詳細解説。現場での実践的な知識が求められます。",
+    "diagram_text": "【図13】施工の詳細\n  ┌──────┐\n  │ 施工要点 │\n  └──────┘",
+    "tags": [
+      "施工",
+      "躯体",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q014",
+    "field": "施工",
+    "subfield": "躯体工事",
+    "difficulty": 2,
+    "question_html": "<ruby>躯体<rt>くたい</rt></ruby>工事に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：適切な施工方法4",
+      "選択肢2：適切な施工方法4",
+      "選択肢3：不適切な施工方法4",
+      "選択肢4：適切な施工方法4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "施工問題4の詳細解説。現場での実践的な知識が求められます。",
+    "diagram_text": "【図14】施工の詳細\n  ┌──────┐\n  │ 施工要点 │\n  └──────┘",
+    "tags": [
+      "施工",
+      "躯体",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q015",
+    "field": "施工",
+    "subfield": "躯体工事",
+    "difficulty": 2,
+    "question_html": "<ruby>躯体<rt>くたい</rt></ruby>工事に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：適切な施工方法5",
+      "選択肢2：適切な施工方法5",
+      "選択肢3：不適切な施工方法5",
+      "選択肢4：適切な施工方法5"
+    ],
+    "answer_index": 0,
+    "explanation_html": "施工問題5の詳細解説。現場での実践的な知識が求められます。",
+    "diagram_text": "【図15】施工の詳細\n  ┌──────┐\n  │ 施工要点 │\n  └──────┘",
+    "tags": [
+      "施工",
+      "躯体",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q016",
+    "field": "施工",
+    "subfield": "躯体工事",
+    "difficulty": 2,
+    "question_html": "<ruby>躯体<rt>くたい</rt></ruby>工事に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：適切な施工方法6",
+      "選択肢2：適切な施工方法6",
+      "選択肢3：不適切な施工方法6",
+      "選択肢4：適切な施工方法6"
+    ],
+    "answer_index": 0,
+    "explanation_html": "施工問題6の詳細解説。現場での実践的な知識が求められます。",
+    "diagram_text": "【図16】施工の詳細\n  ┌──────┐\n  │ 施工要点 │\n  └──────┘",
+    "tags": [
+      "施工",
+      "躯体",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q017",
+    "field": "施工",
+    "subfield": "躯体工事",
+    "difficulty": 2,
+    "question_html": "<ruby>躯体<rt>くたい</rt></ruby>工事に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：適切な施工方法7",
+      "選択肢2：適切な施工方法7",
+      "選択肢3：不適切な施工方法7",
+      "選択肢4：適切な施工方法7"
+    ],
+    "answer_index": 0,
+    "explanation_html": "施工問題7の詳細解説。現場での実践的な知識が求められます。",
+    "diagram_text": "【図17】施工の詳細\n  ┌──────┐\n  │ 施工要点 │\n  └──────┘",
+    "tags": [
+      "施工",
+      "躯体",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q018",
+    "field": "施工",
+    "subfield": "躯体工事",
+    "difficulty": 2,
+    "question_html": "<ruby>躯体<rt>くたい</rt></ruby>工事に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：適切な施工方法8",
+      "選択肢2：適切な施工方法8",
+      "選択肢3：不適切な施工方法8",
+      "選択肢4：適切な施工方法8"
+    ],
+    "answer_index": 0,
+    "explanation_html": "施工問題8の詳細解説。現場での実践的な知識が求められます。",
+    "diagram_text": "【図18】施工の詳細\n  ┌──────┐\n  │ 施工要点 │\n  └──────┘",
+    "tags": [
+      "施工",
+      "躯体",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q019",
+    "field": "施工",
+    "subfield": "仕上工事",
+    "difficulty": 2,
+    "question_html": "<ruby>仕上<rt>しあげ</rt></ruby>工事に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：適切な施工方法9",
+      "選択肢2：適切な施工方法9",
+      "選択肢3：不適切な施工方法9",
+      "選択肢4：適切な施工方法9"
+    ],
+    "answer_index": 0,
+    "explanation_html": "施工問題9の詳細解説。現場での実践的な知識が求められます。",
+    "diagram_text": "【図19】施工の詳細\n  ┌──────┐\n  │ 施工要点 │\n  └──────┘",
+    "tags": [
+      "施工",
+      "仕上",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q020",
+    "field": "施工",
+    "subfield": "仕上工事",
+    "difficulty": 2,
+    "question_html": "<ruby>仕上<rt>しあげ</rt></ruby>工事に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：適切な施工方法10",
+      "選択肢2：適切な施工方法10",
+      "選択肢3：不適切な施工方法10",
+      "選択肢4：適切な施工方法10"
+    ],
+    "answer_index": 0,
+    "explanation_html": "施工問題10の詳細解説。現場での実践的な知識が求められます。",
+    "diagram_text": "【図20】施工の詳細\n  ┌──────┐\n  │ 施工要点 │\n  └──────┘",
+    "tags": [
+      "施工",
+      "仕上",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q021",
+    "field": "施工",
+    "subfield": "仕上工事",
+    "difficulty": 2,
+    "question_html": "<ruby>仕上<rt>しあげ</rt></ruby>工事に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：適切な施工方法11",
+      "選択肢2：適切な施工方法11",
+      "選択肢3：不適切な施工方法11",
+      "選択肢4：適切な施工方法11"
+    ],
+    "answer_index": 0,
+    "explanation_html": "施工問題11の詳細解説。現場での実践的な知識が求められます。",
+    "diagram_text": "【図21】施工の詳細\n  ┌──────┐\n  │ 施工要点 │\n  └──────┘",
+    "tags": [
+      "施工",
+      "仕上",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q022",
+    "field": "施工",
+    "subfield": "仕上工事",
+    "difficulty": 2,
+    "question_html": "<ruby>仕上<rt>しあげ</rt></ruby>工事に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：適切な施工方法12",
+      "選択肢2：適切な施工方法12",
+      "選択肢3：不適切な施工方法12",
+      "選択肢4：適切な施工方法12"
+    ],
+    "answer_index": 0,
+    "explanation_html": "施工問題12の詳細解説。現場での実践的な知識が求められます。",
+    "diagram_text": "【図22】施工の詳細\n  ┌──────┐\n  │ 施工要点 │\n  └──────┘",
+    "tags": [
+      "施工",
+      "仕上",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q023",
+    "field": "施工",
+    "subfield": "仕上工事",
+    "difficulty": 2,
+    "question_html": "<ruby>仕上<rt>しあげ</rt></ruby>工事に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：適切な施工方法13",
+      "選択肢2：適切な施工方法13",
+      "選択肢3：不適切な施工方法13",
+      "選択肢4：適切な施工方法13"
+    ],
+    "answer_index": 0,
+    "explanation_html": "施工問題13の詳細解説。現場での実践的な知識が求められます。",
+    "diagram_text": "【図23】施工の詳細\n  ┌──────┐\n  │ 施工要点 │\n  └──────┘",
+    "tags": [
+      "施工",
+      "仕上",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q024",
+    "field": "施工",
+    "subfield": "仕上工事",
+    "difficulty": 2,
+    "question_html": "<ruby>仕上<rt>しあげ</rt></ruby>工事に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：適切な施工方法14",
+      "選択肢2：適切な施工方法14",
+      "選択肢3：不適切な施工方法14",
+      "選択肢4：適切な施工方法14"
+    ],
+    "answer_index": 0,
+    "explanation_html": "施工問題14の詳細解説。現場での実践的な知識が求められます。",
+    "diagram_text": "【図24】施工の詳細\n  ┌──────┐\n  │ 施工要点 │\n  └──────┘",
+    "tags": [
+      "施工",
+      "仕上",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q025",
+    "field": "施工",
+    "subfield": "仕上工事",
+    "difficulty": 2,
+    "question_html": "<ruby>仕上<rt>しあげ</rt></ruby>工事に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "選択肢1：適切な施工方法15",
+      "選択肢2：適切な施工方法15",
+      "選択肢3：不適切な施工方法15",
+      "選択肢4：適切な施工方法15"
+    ],
+    "answer_index": 0,
+    "explanation_html": "施工問題15の詳細解説。現場での実践的な知識が求められます。",
+    "diagram_text": "【図25】施工の詳細\n  ┌──────┐\n  │ 施工要点 │\n  └──────┘",
+    "tags": [
+      "施工",
+      "仕上",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q026",
+    "field": "施工管理",
+    "subfield": "工程管理",
+    "difficulty": 2,
+    "question_html": "<ruby>工程管理<rt>かんきょうかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "工程管理における適切な対応1",
+      "工程管理における適切な対応1",
+      "工程管理における不適切な対応1",
+      "工程管理における適切な対応1"
+    ],
+    "answer_index": 0,
+    "explanation_html": "工程管理問題1の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図26】工程管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "工程管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q027",
+    "field": "施工管理",
+    "subfield": "品質管理",
+    "difficulty": 2,
+    "question_html": "<ruby>品質管理<rt>ひんしつかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "品質管理における適切な対応2",
+      "品質管理における適切な対応2",
+      "品質管理における不適切な対応2",
+      "品質管理における適切な対応2"
+    ],
+    "answer_index": 0,
+    "explanation_html": "品質管理問題2の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図27】品質管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "品質管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q028",
+    "field": "施工管理",
+    "subfield": "安全管理",
+    "difficulty": 2,
+    "question_html": "<ruby>安全管理<rt>あんぜんかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "安全管理における適切な対応3",
+      "安全管理における適切な対応3",
+      "安全管理における不適切な対応3",
+      "安全管理における適切な対応3"
+    ],
+    "answer_index": 0,
+    "explanation_html": "安全管理問題3の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図28】安全管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "安全管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q029",
+    "field": "施工管理",
+    "subfield": "環境管理",
+    "difficulty": 2,
+    "question_html": "<ruby>環境管理<rt>かんきょうかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "環境管理における適切な対応4",
+      "環境管理における適切な対応4",
+      "環境管理における不適切な対応4",
+      "環境管理における適切な対応4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "環境管理問題4の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図29】環境管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "環境管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q030",
+    "field": "施工管理",
+    "subfield": "工程管理",
+    "difficulty": 2,
+    "question_html": "<ruby>工程管理<rt>かんきょうかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "工程管理における適切な対応5",
+      "工程管理における適切な対応5",
+      "工程管理における不適切な対応5",
+      "工程管理における適切な対応5"
+    ],
+    "answer_index": 0,
+    "explanation_html": "工程管理問題5の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図30】工程管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "工程管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q031",
+    "field": "施工管理",
+    "subfield": "品質管理",
+    "difficulty": 2,
+    "question_html": "<ruby>品質管理<rt>ひんしつかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "品質管理における適切な対応6",
+      "品質管理における適切な対応6",
+      "品質管理における不適切な対応6",
+      "品質管理における適切な対応6"
+    ],
+    "answer_index": 0,
+    "explanation_html": "品質管理問題6の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図31】品質管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "品質管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q032",
+    "field": "施工管理",
+    "subfield": "安全管理",
+    "difficulty": 2,
+    "question_html": "<ruby>安全管理<rt>あんぜんかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "安全管理における適切な対応7",
+      "安全管理における適切な対応7",
+      "安全管理における不適切な対応7",
+      "安全管理における適切な対応7"
+    ],
+    "answer_index": 0,
+    "explanation_html": "安全管理問題7の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図32】安全管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "安全管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q033",
+    "field": "施工管理",
+    "subfield": "環境管理",
+    "difficulty": 2,
+    "question_html": "<ruby>環境管理<rt>かんきょうかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "環境管理における適切な対応8",
+      "環境管理における適切な対応8",
+      "環境管理における不適切な対応8",
+      "環境管理における適切な対応8"
+    ],
+    "answer_index": 0,
+    "explanation_html": "環境管理問題8の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図33】環境管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "環境管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q034",
+    "field": "施工管理",
+    "subfield": "工程管理",
+    "difficulty": 2,
+    "question_html": "<ruby>工程管理<rt>かんきょうかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "工程管理における適切な対応9",
+      "工程管理における適切な対応9",
+      "工程管理における不適切な対応9",
+      "工程管理における適切な対応9"
+    ],
+    "answer_index": 0,
+    "explanation_html": "工程管理問題9の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図34】工程管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "工程管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q035",
+    "field": "施工管理",
+    "subfield": "品質管理",
+    "difficulty": 2,
+    "question_html": "<ruby>品質管理<rt>ひんしつかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "品質管理における適切な対応10",
+      "品質管理における適切な対応10",
+      "品質管理における不適切な対応10",
+      "品質管理における適切な対応10"
+    ],
+    "answer_index": 0,
+    "explanation_html": "品質管理問題10の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図35】品質管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "品質管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q036",
+    "field": "施工管理",
+    "subfield": "安全管理",
+    "difficulty": 2,
+    "question_html": "<ruby>安全管理<rt>あんぜんかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "安全管理における適切な対応11",
+      "安全管理における適切な対応11",
+      "安全管理における不適切な対応11",
+      "安全管理における適切な対応11"
+    ],
+    "answer_index": 0,
+    "explanation_html": "安全管理問題11の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図36】安全管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "安全管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q037",
+    "field": "施工管理",
+    "subfield": "環境管理",
+    "difficulty": 2,
+    "question_html": "<ruby>環境管理<rt>かんきょうかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "環境管理における適切な対応12",
+      "環境管理における適切な対応12",
+      "環境管理における不適切な対応12",
+      "環境管理における適切な対応12"
+    ],
+    "answer_index": 0,
+    "explanation_html": "環境管理問題12の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図37】環境管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "環境管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q038",
+    "field": "施工管理",
+    "subfield": "工程管理",
+    "difficulty": 2,
+    "question_html": "<ruby>工程管理<rt>かんきょうかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "工程管理における適切な対応13",
+      "工程管理における適切な対応13",
+      "工程管理における不適切な対応13",
+      "工程管理における適切な対応13"
+    ],
+    "answer_index": 0,
+    "explanation_html": "工程管理問題13の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図38】工程管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "工程管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q039",
+    "field": "施工管理",
+    "subfield": "品質管理",
+    "difficulty": 2,
+    "question_html": "<ruby>品質管理<rt>ひんしつかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "品質管理における適切な対応14",
+      "品質管理における適切な対応14",
+      "品質管理における不適切な対応14",
+      "品質管理における適切な対応14"
+    ],
+    "answer_index": 0,
+    "explanation_html": "品質管理問題14の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図39】品質管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "品質管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q040",
+    "field": "施工管理",
+    "subfield": "安全管理",
+    "difficulty": 2,
+    "question_html": "<ruby>安全管理<rt>あんぜんかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "安全管理における適切な対応15",
+      "安全管理における適切な対応15",
+      "安全管理における不適切な対応15",
+      "安全管理における適切な対応15"
+    ],
+    "answer_index": 0,
+    "explanation_html": "安全管理問題15の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図40】安全管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "安全管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q041",
+    "field": "施工管理",
+    "subfield": "環境管理",
+    "difficulty": 2,
+    "question_html": "<ruby>環境管理<rt>かんきょうかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "環境管理における適切な対応16",
+      "環境管理における適切な対応16",
+      "環境管理における不適切な対応16",
+      "環境管理における適切な対応16"
+    ],
+    "answer_index": 0,
+    "explanation_html": "環境管理問題16の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図41】環境管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "環境管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q042",
+    "field": "施工管理",
+    "subfield": "工程管理",
+    "difficulty": 2,
+    "question_html": "<ruby>工程管理<rt>かんきょうかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "工程管理における適切な対応17",
+      "工程管理における適切な対応17",
+      "工程管理における不適切な対応17",
+      "工程管理における適切な対応17"
+    ],
+    "answer_index": 0,
+    "explanation_html": "工程管理問題17の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図42】工程管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "工程管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q043",
+    "field": "施工管理",
+    "subfield": "品質管理",
+    "difficulty": 2,
+    "question_html": "<ruby>品質管理<rt>ひんしつかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "品質管理における適切な対応18",
+      "品質管理における適切な対応18",
+      "品質管理における不適切な対応18",
+      "品質管理における適切な対応18"
+    ],
+    "answer_index": 0,
+    "explanation_html": "品質管理問題18の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図43】品質管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "品質管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q044",
+    "field": "施工管理",
+    "subfield": "安全管理",
+    "difficulty": 2,
+    "question_html": "<ruby>安全管理<rt>あんぜんかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "安全管理における適切な対応19",
+      "安全管理における適切な対応19",
+      "安全管理における不適切な対応19",
+      "安全管理における適切な対応19"
+    ],
+    "answer_index": 0,
+    "explanation_html": "安全管理問題19の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図44】安全管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "安全管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q045",
+    "field": "施工管理",
+    "subfield": "環境管理",
+    "difficulty": 2,
+    "question_html": "<ruby>環境管理<rt>かんきょうかんり</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "環境管理における適切な対応20",
+      "環境管理における適切な対応20",
+      "環境管理における不適切な対応20",
+      "環境管理における適切な対応20"
+    ],
+    "answer_index": 0,
+    "explanation_html": "環境管理問題20の解説。管理の基本原則を理解します。",
+    "diagram_text": "【図45】環境管理の流れ\n  計画→実施→確認→改善",
+    "tags": [
+      "施工管理",
+      "環境管理",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q046",
+    "field": "共通",
+    "subfield": "材料・用語",
+    "difficulty": 1,
+    "question_html": "建築<ruby>材料<rt>ざいりょう</rt></ruby>または<ruby>用語<rt>ようご</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "材料・用語の正しい説明1",
+      "材料・用語の正しい説明1",
+      "材料・用語の誤った説明1",
+      "材料・用語の正しい説明1"
+    ],
+    "answer_index": 0,
+    "explanation_html": "共通問題1の解説。基礎知識として重要です。",
+    "diagram_text": "【図46】材料・用語の概念\n  ┌──────┐\n  │ 基礎知識 │\n  └──────┘",
+    "tags": [
+      "共通",
+      "材料",
+      "用語",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q047",
+    "field": "共通",
+    "subfield": "材料・用語",
+    "difficulty": 1,
+    "question_html": "建築<ruby>材料<rt>ざいりょう</rt></ruby>または<ruby>用語<rt>ようご</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "材料・用語の正しい説明2",
+      "材料・用語の正しい説明2",
+      "材料・用語の誤った説明2",
+      "材料・用語の正しい説明2"
+    ],
+    "answer_index": 0,
+    "explanation_html": "共通問題2の解説。基礎知識として重要です。",
+    "diagram_text": "【図47】材料・用語の概念\n  ┌──────┐\n  │ 基礎知識 │\n  └──────┘",
+    "tags": [
+      "共通",
+      "材料",
+      "用語",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q048",
+    "field": "共通",
+    "subfield": "材料・用語",
+    "difficulty": 1,
+    "question_html": "建築<ruby>材料<rt>ざいりょう</rt></ruby>または<ruby>用語<rt>ようご</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "材料・用語の正しい説明3",
+      "材料・用語の正しい説明3",
+      "材料・用語の誤った説明3",
+      "材料・用語の正しい説明3"
+    ],
+    "answer_index": 0,
+    "explanation_html": "共通問題3の解説。基礎知識として重要です。",
+    "diagram_text": "【図48】材料・用語の概念\n  ┌──────┐\n  │ 基礎知識 │\n  └──────┘",
+    "tags": [
+      "共通",
+      "材料",
+      "用語",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q049",
+    "field": "共通",
+    "subfield": "材料・用語",
+    "difficulty": 1,
+    "question_html": "建築<ruby>材料<rt>ざいりょう</rt></ruby>または<ruby>用語<rt>ようご</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "材料・用語の正しい説明4",
+      "材料・用語の正しい説明4",
+      "材料・用語の誤った説明4",
+      "材料・用語の正しい説明4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "共通問題4の解説。基礎知識として重要です。",
+    "diagram_text": "【図49】材料・用語の概念\n  ┌──────┐\n  │ 基礎知識 │\n  └──────┘",
+    "tags": [
+      "共通",
+      "材料",
+      "用語",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 1,
+    "question_id": "Y1-Q050",
+    "field": "共通",
+    "subfield": "材料・用語",
+    "difficulty": 1,
+    "question_html": "建築<ruby>材料<rt>ざいりょう</rt></ruby>または<ruby>用語<rt>ようご</rt></ruby>に関する記述として、最も適切なものはどれか。",
+    "choices_html": [
+      "材料・用語の正しい説明5",
+      "材料・用語の正しい説明5",
+      "材料・用語の誤った説明5",
+      "材料・用語の正しい説明5"
+    ],
+    "answer_index": 0,
+    "explanation_html": "共通問題5の解説。基礎知識として重要です。",
+    "diagram_text": "【図50】材料・用語の概念\n  ┌──────┐\n  │ 基礎知識 │\n  └──────┘",
+    "tags": [
+      "共通",
+      "材料",
+      "用語",
+      "第1年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q051",
+    "field": "法規",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題1",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題1の解説",
+    "diagram_text": "【図51】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q052",
+    "field": "法規",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題2",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題2の解説",
+    "diagram_text": "【図52】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q053",
+    "field": "法規",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題3",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題3の解説",
+    "diagram_text": "【図53】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q054",
+    "field": "法規",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題4",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題4の解説",
+    "diagram_text": "【図54】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q055",
+    "field": "法規",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題5",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題5の解説",
+    "diagram_text": "【図55】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q056",
+    "field": "法規",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題6",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題6の解説",
+    "diagram_text": "【図56】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q057",
+    "field": "法規",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題7",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題7の解説",
+    "diagram_text": "【図57】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q058",
+    "field": "法規",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題8",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題8の解説",
+    "diagram_text": "【図58】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q059",
+    "field": "法規",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題9",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題9の解説",
+    "diagram_text": "【図59】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q060",
+    "field": "法規",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題10",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題10の解説",
+    "diagram_text": "【図60】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q061",
+    "field": "施工",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題11",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題11の解説",
+    "diagram_text": "【図61】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q062",
+    "field": "施工",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題12",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題12の解説",
+    "diagram_text": "【図62】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q063",
+    "field": "施工",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題13",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題13の解説",
+    "diagram_text": "【図63】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q064",
+    "field": "施工",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題14",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題14の解説",
+    "diagram_text": "【図64】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q065",
+    "field": "施工",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題15",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題15の解説",
+    "diagram_text": "【図65】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q066",
+    "field": "施工",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題16",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題16の解説",
+    "diagram_text": "【図66】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q067",
+    "field": "施工",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題17",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題17の解説",
+    "diagram_text": "【図67】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q068",
+    "field": "施工",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題18",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題18の解説",
+    "diagram_text": "【図68】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q069",
+    "field": "施工",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題19",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題19の解説",
+    "diagram_text": "【図69】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q070",
+    "field": "施工",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題20",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題20の解説",
+    "diagram_text": "【図70】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q071",
+    "field": "施工",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題21",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題21の解説",
+    "diagram_text": "【図71】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q072",
+    "field": "施工",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題22",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題22の解説",
+    "diagram_text": "【図72】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q073",
+    "field": "施工",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題23",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題23の解説",
+    "diagram_text": "【図73】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q074",
+    "field": "施工",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題24",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題24の解説",
+    "diagram_text": "【図74】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q075",
+    "field": "施工",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題25",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題25の解説",
+    "diagram_text": "【図75】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q076",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題26",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題26の解説",
+    "diagram_text": "【図76】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q077",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題27",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題27の解説",
+    "diagram_text": "【図77】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q078",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題28",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題28の解説",
+    "diagram_text": "【図78】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q079",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題29",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題29の解説",
+    "diagram_text": "【図79】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q080",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題30",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題30の解説",
+    "diagram_text": "【図80】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q081",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題31",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題31の解説",
+    "diagram_text": "【図81】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q082",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題32",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題32の解説",
+    "diagram_text": "【図82】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q083",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題33",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題33の解説",
+    "diagram_text": "【図83】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q084",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題34",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題34の解説",
+    "diagram_text": "【図84】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q085",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題35",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題35の解説",
+    "diagram_text": "【図85】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q086",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題36",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題36の解説",
+    "diagram_text": "【図86】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q087",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題37",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題37の解説",
+    "diagram_text": "【図87】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q088",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題38",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題38の解説",
+    "diagram_text": "【図88】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q089",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題39",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題39の解説",
+    "diagram_text": "【図89】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q090",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題40",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題40の解説",
+    "diagram_text": "【図90】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q091",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題41",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題41の解説",
+    "diagram_text": "【図91】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q092",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題42",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題42の解説",
+    "diagram_text": "【図92】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q093",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題43",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題43の解説",
+    "diagram_text": "【図93】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q094",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題44",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題44の解説",
+    "diagram_text": "【図94】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q095",
+    "field": "施工管理",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題45",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題45の解説",
+    "diagram_text": "【図95】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q096",
+    "field": "共通",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題46",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題46の解説",
+    "diagram_text": "【図96】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q097",
+    "field": "共通",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題47",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題47の解説",
+    "diagram_text": "【図97】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q098",
+    "field": "共通",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題48",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題48の解説",
+    "diagram_text": "【図98】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q099",
+    "field": "共通",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題49",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題49の解説",
+    "diagram_text": "【図99】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 2,
+    "question_id": "Y2-Q100",
+    "field": "共通",
+    "subfield": "標準レベル",
+    "difficulty": 3,
+    "question_html": "第2年次 問題50",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第2年次 問題50の解説",
+    "diagram_text": "【図100】第2年次の図解",
+    "tags": [
+      "第2年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q101",
+    "field": "法規",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題1",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題1の解説",
+    "diagram_text": "【図101】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q102",
+    "field": "法規",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題2",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題2の解説",
+    "diagram_text": "【図102】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q103",
+    "field": "法規",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題3",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題3の解説",
+    "diagram_text": "【図103】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q104",
+    "field": "法規",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題4",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題4の解説",
+    "diagram_text": "【図104】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q105",
+    "field": "法規",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題5",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題5の解説",
+    "diagram_text": "【図105】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q106",
+    "field": "法規",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題6",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題6の解説",
+    "diagram_text": "【図106】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q107",
+    "field": "法規",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題7",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題7の解説",
+    "diagram_text": "【図107】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q108",
+    "field": "法規",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題8",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題8の解説",
+    "diagram_text": "【図108】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q109",
+    "field": "法規",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題9",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題9の解説",
+    "diagram_text": "【図109】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q110",
+    "field": "法規",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題10",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題10の解説",
+    "diagram_text": "【図110】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q111",
+    "field": "施工",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題11",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題11の解説",
+    "diagram_text": "【図111】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q112",
+    "field": "施工",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題12",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題12の解説",
+    "diagram_text": "【図112】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q113",
+    "field": "施工",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題13",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題13の解説",
+    "diagram_text": "【図113】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q114",
+    "field": "施工",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題14",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題14の解説",
+    "diagram_text": "【図114】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q115",
+    "field": "施工",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題15",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題15の解説",
+    "diagram_text": "【図115】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q116",
+    "field": "施工",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題16",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題16の解説",
+    "diagram_text": "【図116】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q117",
+    "field": "施工",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題17",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題17の解説",
+    "diagram_text": "【図117】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q118",
+    "field": "施工",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題18",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題18の解説",
+    "diagram_text": "【図118】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q119",
+    "field": "施工",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題19",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題19の解説",
+    "diagram_text": "【図119】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q120",
+    "field": "施工",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題20",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題20の解説",
+    "diagram_text": "【図120】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q121",
+    "field": "施工",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題21",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題21の解説",
+    "diagram_text": "【図121】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q122",
+    "field": "施工",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題22",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題22の解説",
+    "diagram_text": "【図122】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q123",
+    "field": "施工",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題23",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題23の解説",
+    "diagram_text": "【図123】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q124",
+    "field": "施工",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題24",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題24の解説",
+    "diagram_text": "【図124】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q125",
+    "field": "施工",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題25",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題25の解説",
+    "diagram_text": "【図125】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q126",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題26",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題26の解説",
+    "diagram_text": "【図126】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q127",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題27",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題27の解説",
+    "diagram_text": "【図127】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q128",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題28",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題28の解説",
+    "diagram_text": "【図128】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q129",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題29",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題29の解説",
+    "diagram_text": "【図129】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q130",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題30",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題30の解説",
+    "diagram_text": "【図130】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q131",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題31",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題31の解説",
+    "diagram_text": "【図131】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q132",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題32",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題32の解説",
+    "diagram_text": "【図132】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q133",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題33",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題33の解説",
+    "diagram_text": "【図133】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q134",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題34",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題34の解説",
+    "diagram_text": "【図134】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q135",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題35",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題35の解説",
+    "diagram_text": "【図135】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q136",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題36",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題36の解説",
+    "diagram_text": "【図136】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q137",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題37",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題37の解説",
+    "diagram_text": "【図137】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q138",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題38",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題38の解説",
+    "diagram_text": "【図138】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q139",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題39",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題39の解説",
+    "diagram_text": "【図139】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q140",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題40",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題40の解説",
+    "diagram_text": "【図140】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q141",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題41",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題41の解説",
+    "diagram_text": "【図141】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q142",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題42",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題42の解説",
+    "diagram_text": "【図142】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q143",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題43",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題43の解説",
+    "diagram_text": "【図143】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q144",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題44",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題44の解説",
+    "diagram_text": "【図144】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q145",
+    "field": "施工管理",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題45",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題45の解説",
+    "diagram_text": "【図145】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q146",
+    "field": "共通",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題46",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題46の解説",
+    "diagram_text": "【図146】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q147",
+    "field": "共通",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題47",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題47の解説",
+    "diagram_text": "【図147】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q148",
+    "field": "共通",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題48",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題48の解説",
+    "diagram_text": "【図148】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q149",
+    "field": "共通",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題49",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題49の解説",
+    "diagram_text": "【図149】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 3,
+    "question_id": "Y3-Q150",
+    "field": "共通",
+    "subfield": "判断力重視",
+    "difficulty": 4,
+    "question_html": "第3年次 問題50",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第3年次 問題50の解説",
+    "diagram_text": "【図150】第3年次の図解",
+    "tags": [
+      "第3年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q151",
+    "field": "法規",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題1",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題1の解説",
+    "diagram_text": "【図151】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q152",
+    "field": "法規",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題2",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題2の解説",
+    "diagram_text": "【図152】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q153",
+    "field": "法規",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題3",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題3の解説",
+    "diagram_text": "【図153】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q154",
+    "field": "法規",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題4",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題4の解説",
+    "diagram_text": "【図154】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q155",
+    "field": "法規",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題5",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題5の解説",
+    "diagram_text": "【図155】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q156",
+    "field": "法規",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題6",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題6の解説",
+    "diagram_text": "【図156】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q157",
+    "field": "法規",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題7",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題7の解説",
+    "diagram_text": "【図157】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q158",
+    "field": "法規",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題8",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題8の解説",
+    "diagram_text": "【図158】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q159",
+    "field": "法規",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題9",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題9の解説",
+    "diagram_text": "【図159】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q160",
+    "field": "法規",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題10",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題10の解説",
+    "diagram_text": "【図160】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q161",
+    "field": "施工",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題11",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題11の解説",
+    "diagram_text": "【図161】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q162",
+    "field": "施工",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題12",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題12の解説",
+    "diagram_text": "【図162】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q163",
+    "field": "施工",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題13",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題13の解説",
+    "diagram_text": "【図163】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q164",
+    "field": "施工",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題14",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題14の解説",
+    "diagram_text": "【図164】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q165",
+    "field": "施工",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題15",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題15の解説",
+    "diagram_text": "【図165】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q166",
+    "field": "施工",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題16",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題16の解説",
+    "diagram_text": "【図166】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q167",
+    "field": "施工",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題17",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題17の解説",
+    "diagram_text": "【図167】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q168",
+    "field": "施工",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題18",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題18の解説",
+    "diagram_text": "【図168】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q169",
+    "field": "施工",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題19",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題19の解説",
+    "diagram_text": "【図169】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q170",
+    "field": "施工",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題20",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題20の解説",
+    "diagram_text": "【図170】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q171",
+    "field": "施工",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題21",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題21の解説",
+    "diagram_text": "【図171】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q172",
+    "field": "施工",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題22",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題22の解説",
+    "diagram_text": "【図172】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q173",
+    "field": "施工",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題23",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題23の解説",
+    "diagram_text": "【図173】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q174",
+    "field": "施工",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題24",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題24の解説",
+    "diagram_text": "【図174】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q175",
+    "field": "施工",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題25",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題25の解説",
+    "diagram_text": "【図175】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q176",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題26",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題26の解説",
+    "diagram_text": "【図176】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q177",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題27",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題27の解説",
+    "diagram_text": "【図177】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q178",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題28",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題28の解説",
+    "diagram_text": "【図178】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q179",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題29",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題29の解説",
+    "diagram_text": "【図179】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q180",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題30",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題30の解説",
+    "diagram_text": "【図180】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q181",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題31",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題31の解説",
+    "diagram_text": "【図181】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q182",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題32",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題32の解説",
+    "diagram_text": "【図182】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q183",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題33",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題33の解説",
+    "diagram_text": "【図183】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q184",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題34",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題34の解説",
+    "diagram_text": "【図184】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q185",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題35",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題35の解説",
+    "diagram_text": "【図185】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q186",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題36",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題36の解説",
+    "diagram_text": "【図186】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q187",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題37",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題37の解説",
+    "diagram_text": "【図187】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q188",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題38",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題38の解説",
+    "diagram_text": "【図188】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q189",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題39",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題39の解説",
+    "diagram_text": "【図189】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q190",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題40",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題40の解説",
+    "diagram_text": "【図190】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q191",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題41",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題41の解説",
+    "diagram_text": "【図191】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q192",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題42",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題42の解説",
+    "diagram_text": "【図192】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q193",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題43",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題43の解説",
+    "diagram_text": "【図193】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q194",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題44",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題44の解説",
+    "diagram_text": "【図194】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q195",
+    "field": "施工管理",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題45",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題45の解説",
+    "diagram_text": "【図195】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q196",
+    "field": "共通",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題46",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題46の解説",
+    "diagram_text": "【図196】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q197",
+    "field": "共通",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題47",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題47の解説",
+    "diagram_text": "【図197】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q198",
+    "field": "共通",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題48",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題48の解説",
+    "diagram_text": "【図198】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q199",
+    "field": "共通",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題49",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題49の解説",
+    "diagram_text": "【図199】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 4,
+    "question_id": "Y4-Q200",
+    "field": "共通",
+    "subfield": "実務応用",
+    "difficulty": 4,
+    "question_html": "第4年次 問題50",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第4年次 問題50の解説",
+    "diagram_text": "【図200】第4年次の図解",
+    "tags": [
+      "第4年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q201",
+    "field": "法規",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題1",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題1の解説",
+    "diagram_text": "【図201】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q202",
+    "field": "法規",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題2",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題2の解説",
+    "diagram_text": "【図202】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q203",
+    "field": "法規",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題3",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題3の解説",
+    "diagram_text": "【図203】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q204",
+    "field": "法規",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題4",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題4の解説",
+    "diagram_text": "【図204】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q205",
+    "field": "法規",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題5",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題5の解説",
+    "diagram_text": "【図205】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q206",
+    "field": "法規",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題6",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題6の解説",
+    "diagram_text": "【図206】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q207",
+    "field": "法規",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題7",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題7の解説",
+    "diagram_text": "【図207】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q208",
+    "field": "法規",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題8",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題8の解説",
+    "diagram_text": "【図208】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q209",
+    "field": "法規",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題9",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題9の解説",
+    "diagram_text": "【図209】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q210",
+    "field": "法規",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題10",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題10の解説",
+    "diagram_text": "【図210】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q211",
+    "field": "施工",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題11",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題11の解説",
+    "diagram_text": "【図211】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q212",
+    "field": "施工",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題12",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題12の解説",
+    "diagram_text": "【図212】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q213",
+    "field": "施工",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題13",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題13の解説",
+    "diagram_text": "【図213】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q214",
+    "field": "施工",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題14",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題14の解説",
+    "diagram_text": "【図214】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q215",
+    "field": "施工",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題15",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題15の解説",
+    "diagram_text": "【図215】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q216",
+    "field": "施工",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題16",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題16の解説",
+    "diagram_text": "【図216】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q217",
+    "field": "施工",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題17",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題17の解説",
+    "diagram_text": "【図217】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q218",
+    "field": "施工",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題18",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題18の解説",
+    "diagram_text": "【図218】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q219",
+    "field": "施工",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題19",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題19の解説",
+    "diagram_text": "【図219】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q220",
+    "field": "施工",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題20",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題20の解説",
+    "diagram_text": "【図220】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q221",
+    "field": "施工",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題21",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題21の解説",
+    "diagram_text": "【図221】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q222",
+    "field": "施工",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題22",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題22の解説",
+    "diagram_text": "【図222】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q223",
+    "field": "施工",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題23",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題23の解説",
+    "diagram_text": "【図223】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q224",
+    "field": "施工",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題24",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題24の解説",
+    "diagram_text": "【図224】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q225",
+    "field": "施工",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題25",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題25の解説",
+    "diagram_text": "【図225】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q226",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題26",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題26の解説",
+    "diagram_text": "【図226】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q227",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題27",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題27の解説",
+    "diagram_text": "【図227】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q228",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題28",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題28の解説",
+    "diagram_text": "【図228】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q229",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題29",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題29の解説",
+    "diagram_text": "【図229】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q230",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題30",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題30の解説",
+    "diagram_text": "【図230】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q231",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題31",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題31の解説",
+    "diagram_text": "【図231】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q232",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題32",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題32の解説",
+    "diagram_text": "【図232】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q233",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題33",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題33の解説",
+    "diagram_text": "【図233】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q234",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題34",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題34の解説",
+    "diagram_text": "【図234】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q235",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題35",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題35の解説",
+    "diagram_text": "【図235】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q236",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題36",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題36の解説",
+    "diagram_text": "【図236】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q237",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題37",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題37の解説",
+    "diagram_text": "【図237】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q238",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題38",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題38の解説",
+    "diagram_text": "【図238】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q239",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題39",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題39の解説",
+    "diagram_text": "【図239】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q240",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題40",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題40の解説",
+    "diagram_text": "【図240】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q241",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題41",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題41の解説",
+    "diagram_text": "【図241】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q242",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題42",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題42の解説",
+    "diagram_text": "【図242】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q243",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題43",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題43の解説",
+    "diagram_text": "【図243】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q244",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題44",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題44の解説",
+    "diagram_text": "【図244】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q245",
+    "field": "施工管理",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題45",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題45の解説",
+    "diagram_text": "【図245】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q246",
+    "field": "共通",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題46",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題46の解説",
+    "diagram_text": "【図246】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q247",
+    "field": "共通",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題47",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題47の解説",
+    "diagram_text": "【図247】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q248",
+    "field": "共通",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題48",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題48の解説",
+    "diagram_text": "【図248】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q249",
+    "field": "共通",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題49",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題49の解説",
+    "diagram_text": "【図249】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  },
+  {
+    "year": 5,
+    "question_id": "Y5-Q250",
+    "field": "共通",
+    "subfield": "総合応用",
+    "difficulty": 5,
+    "question_html": "第5年次 問題50",
+    "choices_html": [
+      "選択肢1",
+      "選択肢2",
+      "選択肢3",
+      "選択肢4"
+    ],
+    "answer_index": 0,
+    "explanation_html": "第5年次 問題50の解説",
+    "diagram_text": "【図250】第5年次の図解",
+    "tags": [
+      "第5年次"
+    ]
+  }
+]

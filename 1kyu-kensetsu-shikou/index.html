@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1級建築施工管理技士 第一次検定 完全オリジナル問題集</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Hiragino Kaku Gothic ProN', 'Meiryo', sans-serif;
+            line-height: 1.8;
+            color: #333;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        header {
+            text-align: center;
+            border-bottom: 3px solid #2c3e50;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        
+        h1 {
+            font-size: 24px;
+            color: #2c3e50;
+            margin-bottom: 15px;
+        }
+        
+        .notice {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 15px;
+            margin: 20px 0;
+            font-size: 14px;
+        }
+        
+        .year-section {
+            margin: 40px 0;
+            border: 2px solid #3498db;
+            border-radius: 8px;
+            padding: 20px;
+            background: #ecf0f1;
+        }
+        
+        .year-title {
+            font-size: 20px;
+            font-weight: bold;
+            color: #2980b9;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        
+        .question {
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        
+        .question-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #3498db;
+        }
+        
+        .question-number {
+            font-size: 18px;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        
+        .question-field {
+            background: #3498db;
+            color: white;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 12px;
+        }
+        
+        .question-text {
+            font-size: 16px;
+            margin: 15px 0;
+            line-height: 1.9;
+        }
+        
+        .choices {
+            margin: 20px 0;
+        }
+        
+        .choice {
+            padding: 10px 15px;
+            margin: 8px 0;
+            background: #f8f9fa;
+            border-left: 3px solid #95a5a6;
+            border-radius: 3px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .choice:hover {
+            background: #e9ecef;
+            border-left-color: #3498db;
+        }
+        
+        .answer {
+            background: #d4edda;
+            border-left: 4px solid #28a745;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 5px;
+        }
+        
+        .answer-label {
+            font-weight: bold;
+            color: #155724;
+            margin-bottom: 5px;
+        }
+        
+        .explanation {
+            background: #e7f3ff;
+            border-left: 4px solid #0066cc;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 5px;
+        }
+        
+        .explanation-label {
+            font-weight: bold;
+            color: #004085;
+            margin-bottom: 10px;
+        }
+        
+        .diagram {
+            background: #f8f9fa;
+            border: 2px dashed #6c757d;
+            padding: 20px;
+            margin: 15px 0;
+            font-family: 'Courier New', monospace;
+            white-space: pre-wrap;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        
+        .stats {
+            background: #e9ecef;
+            padding: 20px;
+            border-radius: 5px;
+            margin: 30px 0;
+        }
+        
+        .stats-title {
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #495057;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-top: 15px;
+        }
+        
+        .stat-item {
+            background: white;
+            padding: 15px;
+            border-radius: 5px;
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 28px;
+            font-weight: bold;
+            color: #3498db;
+        }
+        
+        .stat-label {
+            font-size: 14px;
+            color: #6c757d;
+            margin-top: 5px;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            padding-top: 20px;
+            border-top: 2px solid #e9ecef;
+            color: #6c757d;
+            font-size: 14px;
+        }
+        
+        @media print {
+            body {
+                background: white;
+            }
+            .container {
+                box-shadow: none;
+            }
+            .question {
+                page-break-inside: avoid;
+            }
+        }
+        
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+            .container {
+                padding: 20px;
+            }
+            h1 {
+                font-size: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>1級建築施工管理技士 第一次検定<br>完全オリジナル問題集</h1>
+        </header>
+        
+        <div class="notice">
+            <strong>【重要】</strong><br>
+            本教材は完全オリジナル問題であり、実在の過去問題を再現したものではありません。<br>
+            建設業振興基金およびいかなる試験機関とも無関係です。<br>
+            学習支援を目的とした非公式教材です。
+        </div>
+        
+        <div class="stats">
+            <div class="stats-title">問題集統計</div>
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="stat-number" id="total-questions">250</div>
+                    <div class="stat-label">総問題数</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">5</div>
+                    <div class="stat-label">年次</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">4</div>
+                    <div class="stat-label">分野</div>
+                </div>
+            </div>
+        </div>
+        
+        <div id="questions-container"></div>
+        
+        <footer>
+            <p>&copy; 2025 1級建築施工管理技士 完全オリジナル問題集</p>
+            <p>本教材の無断転載・複製を禁じます</p>
+        </footer>
+    </div>
+    
+    <script>
+        // JSONデータを読み込んで表示
+        fetch('all_250_questions.json')
+            .then(response => response.json())
+            .then(questions => {
+                const container = document.getElementById('questions-container');
+                let currentYear = 0;
+                let yearSection = null;
+                
+                const yearThemes = {
+                    1: '基礎理解中心',
+                    2: '標準知識',
+                    3: '判断力重視',
+                    4: '実務応用',
+                    5: '総合応用'
+                };
+                
+                questions.forEach((q, index) => {
+                    // 年次が変わったら新しいセクションを作成
+                    if (q.year !== currentYear) {
+                        currentYear = q.year;
+                        yearSection = document.createElement('div');
+                        yearSection.className = 'year-section';
+                        yearSection.innerHTML = `<div class="year-title">第${q.year}年次（${yearThemes[q.year]}）50問</div>`;
+                        container.appendChild(yearSection);
+                    }
+                    
+                    // 問題要素を作成
+                    const questionDiv = document.createElement('div');
+                    questionDiv.className = 'question';
+                    
+                    const questionNumber = index + 1;
+                    
+                    let choicesHTML = '';
+                    q.choices_html.forEach((choice, idx) => {
+                        const isCorrect = idx === q.answer_index;
+                        choicesHTML += `<div class="choice">${idx + 1}. ${choice}</div>`;
+                    });
+                    
+                    questionDiv.innerHTML = `
+                        <div class="question-header">
+                            <div class="question-number">問題${questionNumber}</div>
+                            <div class="question-field">${q.field}</div>
+                        </div>
+                        <div class="question-text">${q.question_html}</div>
+                        <div class="choices">${choicesHTML}</div>
+                        <div class="answer">
+                            <div class="answer-label">正答</div>
+                            ${q.answer_index + 1}
+                        </div>
+                        <div class="explanation">
+                            <div class="explanation-label">解説</div>
+                            ${q.explanation_html}
+                        </div>
+                        <div class="diagram">${q.diagram_text}</div>
+                    `;
+                    
+                    yearSection.appendChild(questionDiv);
+                });
+                
+                console.log(`✓ ${questions.length}問を表示しました`);
+            })
+            .catch(error => {
+                console.error('データ読み込みエラー:', error);
+                document.getElementById('questions-container').innerHTML = 
+                    '<p style="color: red;">データの読み込みに失敗しました。</p>';
+            });
+    </script>
+</body>
+</html>
